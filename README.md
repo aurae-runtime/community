@@ -37,9 +37,25 @@ If you would like to get involved with Aurae development.
  - You probably also want to introduce yourself in Discord and start getting to know a few folks.
  
  
-# Mailing List
+### Mailing List
 
-We are working on creating a public mailing list now.
+We are working on creating a public mailing list now. Stay tuned!
 
+### Immediate Rules of Engagement
+
+ - Don't be a dick.
+ - No violence.
+ - No fascism.
+ - No colonialism.
+ - No white supremacy.
+ - No religious extremism.
+ - No nationalism.
+ - No racism.
+ - No homophobia.
+ - No transphobia.
+ - Safe Space: LGTBQIA+
+ - Safe Space: neurodivergent (ADHD, Aspie, Autism, etc).
+ - No illegal hacking or commiting crimes.
+ 
   
   
