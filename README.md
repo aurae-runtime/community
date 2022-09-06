@@ -13,7 +13,7 @@ Aurae is a free and open source distributed runtime that solves problems similar
 Aurae is made up of 2 main components. 
 
  - A user-side shell called `aurae`.
- - A core daemon that listens over a unix domain socket called `auraed`.
+ - A core daemon that listens over a Unix domain socket called `auraed`.
  
  That's it. 
 
@@ -22,9 +22,9 @@ Aurae is made up of 2 main components.
 Aurae is designed to do a lot of things. Simply put though it runs and schedules workloads at scale.
 
  - Runs workloads in "sandbox" environments
-  - Regular processes (Seccomp, selinux, systemcall filtering, etc)
-  - Containerized processes (Cgroup namespaces, and container runtimes like containerd and docker)
-  - Virtual Machine processes (Small lightweight firecracker style microVMs)
+ - Regular processes (seccomp, SELinux, system call filtering, etc.)
+ - Containerized processes (Cgroup namespaces, and container runtimes like containerd and docker)
+ - Virtual Machine processes (Small lightweight firecracker style microVMs)
   
 Aurae is built around a standard library, that is designed to be the ultimate standard library for application teams.  
     
@@ -54,8 +54,5 @@ We are working on creating a public mailing list now. Stay tuned!
  - No homophobia.
  - No transphobia.
  - Safe Space: LGTBQIA+
- - Safe Space: neurodivergent (ADHD, Aspie, Autism, etc).
- - No illegal hacking or commiting crimes.
- 
-  
-  
+ - Safe Space: neurodivergent (ADHD, Aspie, Autism, etc.).
+ - No illegal hacking or committing crimes.
