@@ -4,7 +4,7 @@ The [Aurae Runtime Project](https://github.com/aurae-runtime) is now under publi
 
 If you are interested in contributing to the development, please keep reading.
 
-### 1 Read the fine print below.
+### 1. Read the fine print below
 
 You actually should read this.
 
@@ -18,7 +18,7 @@ In order to contribute to the project there must be an associated signed CLA on 
 
 All contributors agree to abide by the [CONTRIBUTING.md](https://github.com/aurae-runtime/community/blob/main/CONTRIBUTING.md) as well as the [CODE_OF_CONDUCT.md](https://github.com/aurae-runtime/community/blob/main/CODE_OF_CONDUCT.md).
 
-### 4. Good luck, have fun
+### 4. Good luck have fun
 
 Welcome to Aurae. Please be respectful and enjoy your time here.
 
