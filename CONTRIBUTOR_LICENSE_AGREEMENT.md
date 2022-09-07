@@ -2,6 +2,8 @@
 
 The [Aurae Runtime Project](https://github.com/aurae-runtime) is now under public development. 🎉 
 
+The goal of the project is to always be free, transparent, and open to support a healthy and thriving community.
+
 If you are interested in contributing to the development, please keep reading.
 
 ### 1. Read the fine print below
