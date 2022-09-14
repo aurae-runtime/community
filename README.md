@@ -2,6 +2,8 @@
 
 Welcome to The Aurae Runtime project. 🎉
 
+Read the [whitepaper](https://docs.google.com/document/d/1dA591eipsgWeAlaSwbYNQtAQaES243IIqXPAfKhJSjU/edit#heading=h.vknhjb3d4yfc)
+
 The project name is pronounced like the English word "aura" and is named after a minor Greek/Roman mythological deity, whose name means "breeze".
     
 # Getting Involved
