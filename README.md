@@ -10,7 +10,7 @@ The project name is pronounced like the English word "aura" and is named after a
 
 If you would like to get involved with Aurae development. 
 
- - Join our [discord](https://discord.gg/JqvvtUZkMD) and find the `#aurae` channel.
+ - Join our [discord](https://discord.gg/YnWdbchSwA) and find the `#aurae` channel.
  - Read the [Code of Conduct](https://github.com/aurae-runtime/community/blob/main/CODE_OF_CONDUCT.md).
  - Read the [Contribution Guidelines](https://github.com/aurae-runtime/community/blob/main/CONTRIBUTING.md).
  - Sign the [CLA](https://forms.gle/HzbD34ZZjd2JPWGUA) to begin contributing.
