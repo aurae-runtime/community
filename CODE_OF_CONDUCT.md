@@ -8,9 +8,11 @@ The Aurae project and its surrounding community have found safety and value in a
 
  - Don't be a dick.
 
-This is a guiding principal for the project. We expect everyone to be treated with dignity and respect and more importantly we believe that if you are wondering if you are acting inappropriately -- you know you are. However you personally define "being a dick" is what we mean. 
+This is a guiding principal for the project. We expect everyone to be treated with dignity and respect. 
 
-Don't be it. You know if you are. You should stop. 
+We believe that everyone knows when they are "being a dick", and we do not tolerate this level of aggression towards our community. In short we believe that you know if you are being a dick, and therefore you should be able to stop. If you do not stop, you will no longer be welcome in the project spaces.
+
+ > Don't be a dick. You know if you are.
 
 ### Immediate Rules
 
