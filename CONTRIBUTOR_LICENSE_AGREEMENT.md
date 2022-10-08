@@ -14,7 +14,7 @@ You actually should read this.
 
 In order to contribute to the project there must be an associated signed CLA on file for your GitHub user.
 
-[Sign a CLA now](https://forms.gle/GskqZp51zNsqMCiw9).
+[Sign a CLA now](https://cla.aurae.io).
 
 ### 3. Agree to the Code of Conduct and Contribution Guidelines
 
