@@ -14,6 +14,12 @@ In order to contribute to the project there must be an associated signed CLA on 
 
 All contributors agree to abide by the [CONTRIBUTING.md](https://github.com/aurae-runtime/community/blob/main/CONTRIBUTING.md) as well as the [CODE_OF_CONDUCT.md](https://github.com/aurae-runtime/community/blob/main/CODE_OF_CONDUCT.md).
 
+### Corporate Contributions
+
+The Aurae Project follows the Apache v2.2 Corporate Contributor License Agreement which can be downloaded: [aurae-corporate-cla.pdf](https://github.com/aurae-runtime/community/raw/main/aurae-corporate-cla.pdf).
+
+Submissions can be emailed to [cla@aurae.io](mailto:cla@aurae.io).
+
 ## Contributor License Agreement Terms
 
 Adapted from the [Apache Individual Contributor License Agreement V2.2](https://www.apache.org/licenses/icla.pdf)
