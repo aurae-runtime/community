@@ -1,8 +1,10 @@
 # Aurae Community
 
-Welcome to The Aurae Runtime project. 🎉
+Welcome to The Aurae Runtime project.
 
 The project name is pronounced like the English word "aura" and is named after a minor Greek/Roman mythological deity, whose name means "breeze".
+
+Aurae a [Nivenly Foundation](https://github.com/nivenly) project.
     
 # Getting Involved
 
